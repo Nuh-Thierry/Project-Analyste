@@ -1,7 +1,7 @@
 # Data Analysis
 DA project
 
-https://mybinder.org/v2/gh/Nuh-Thierry/Project-Analyste/master?labpath=index.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nuh-Thierry/Project-Analyste/master?labpath=index.ipynb)
 
 ## Data set :file_folder:
 
